@@ -6,5 +6,6 @@ public class proyectofuturo {
        Veredicto veredicto = new Veredicto();
        System.out.println("Estudiante " + args[0] + " : ");
        veredicto.v(num1,num2);
+       //Ivan Agullo Saez
    }
 }
