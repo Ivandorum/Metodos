@@ -1,4 +1,4 @@
-private class Veredicto {
+privado class Veredicto {
    public void v(String num1, String num2) {
            if (num1.equals(num2)) {
                System.out.println("Bien. Pero una hora de estudio para cada módulo puede ser insuficiente.");
